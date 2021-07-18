@@ -8,13 +8,6 @@ title = "GO注释绘图"
 
 # Go注释绘图
 
-| GO                 | Pathway                          | Pvalue   | Count |
-| ------------------ | -------------------------------- | -------- | ----- |
-| Molecular Funciton | oxidoreductase activity          | 3.1E-06  | 135   |
-| Biological Process | photosynthesis                   | 3.07E-08 | 28    |
-| Biological Process | photosynthesis, light harvesting | 7.55E-07 | 11    |
-
-
 
 ~~~
 #GO注释，数据格式如上图
