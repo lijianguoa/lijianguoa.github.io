@@ -1,6 +1,5 @@
 +++
 banner = "banners/placeholder.png"
-categories = ["学习"]
 date = "2021年7月18日"
 menu = ""
 tags = []
