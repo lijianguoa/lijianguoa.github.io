@@ -1,6 +1,5 @@
 +++
 banner = "banners/placeholder.png"
-date = "2021年7月18日"
 menu = ""
 tags = []
 title = "GO注释绘图"
